@@ -1,7 +1,7 @@
 # Social-Media_website
-This is the front-end design of a social media website. It contains all the functionalities of front end that are in an actual social media website. This is a fully responsive front-end design.
+This is the front-end design of a social media website. It contains all the functionalities of the front end that are in an actual social media website. This is a fully responsive front-end design.
 
-Here's how the homepage looks:
+Here's how the homepage looks. The website is live and can be viewed at :  https://sakshamkohli.github.io/Social-Media_website/#
 
 <img width="1440" alt="Screenshot 2023-07-02 at 12 06 26 PM" src="https://github.com/sakshamkohli/Social-Media_website/assets/85550318/975f76be-f74b-4733-8f3d-bcf92a21ed5e">
 
