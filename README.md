@@ -21,6 +21,7 @@ Here is the search bar to look for that particular message:
 <img width="329" alt="Screenshot 2023-07-02 at 12 08 27 PM" src="https://github.com/sakshamkohli/Social-Media_website/assets/85550318/5f8306d5-98fc-4aa1-8a60-e704f652616e">
 
 And don't miss any notifications :
+<br>
 
 <img width="1440" alt="Screenshot 2023-07-02 at 12 06 50 PM" src="https://github.com/sakshamkohli/Social-Media_website/assets/85550318/0b657c37-ad7a-4fe1-b953-4e9f49007b11">
 
@@ -29,6 +30,7 @@ Lastly, you got some friend requests here:
 <img width="1440" alt="Screenshot 2023-07-02 at 12 06 33 PM" src="https://github.com/sakshamkohli/Social-Media_website/assets/85550318/b09efee3-cfa0-4563-ba6c-93d215ca23e0">
 
 Happy Scrolling!
+<br>
 Saksham Kohli :)
 
 
